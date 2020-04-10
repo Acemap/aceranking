@@ -1,3 +1,6 @@
 .idea/
-*.bin
 .ipynb_checkpoints/
+*.exe
+*.prof
+*.bin
+*.bin.xz
